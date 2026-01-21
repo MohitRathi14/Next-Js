@@ -7,11 +7,11 @@ export default function Product() {
         },
         {
             id:2,
-            category:"laptop"
+            category:"Laptops"
         },
         {
             id:3,
-            category:"camera"
+            category:"Cameras"
         },
         {
             id:4,
@@ -19,7 +19,7 @@ export default function Product() {
         },
         {
             id:5,
-            category:"Tvs"
+            category:"TVs"
         },
     ]
   return (
